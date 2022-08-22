@@ -1,8 +1,8 @@
-# Time Tracking Dashboard [![Button.png](https://i.postimg.cc/zvTsvrq1/Button.png)](https://marianotorresleyva.github.io/Ecommerce1Page/public/)
+# Time Tracking Dashboard [![Button.png](https://i.postimg.cc/zvTsvrq1/Button.png)](https://marianotorresleyva.github.io/time_tracking_dashboard/)
 
 ---
 
-[![desktop-preview.jpg](https://i.postimg.cc/WpCM6HC3/desktop-preview.jpg)](https://postimg.cc/0rGM9c8R)
+[![desktop-preview.jpg](https://i.postimg.cc/WpCM6HC3/desktop-preview.jpg)](https://marianotorresleyva.github.io/time_tracking_dashboard/)
 
 ## SKILLS
 
